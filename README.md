@@ -4,11 +4,11 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-- Works at Poultry Sync as a back-end developer using Python and Django framework.
-- Graduate with a degree in Computer Science from Thebes Academy in 2022.
-- Experience in data analysis and visualization specifically in Python.
-- Has problem-solving and data structure skills.
-- Currently learning more about Web Development.
+- **Works at Poultry Sync as a back-end developer using Python and Django framework.**
+- **Graduate with a degree in Computer Science from Thebes Academy in 2022.**
+- **Experience in data analysis and visualization specifically in Python.**
+- **Has problem-solving and data structure skills.**
+- **Currently learning more about Web Development.**
 
 <br>
 
