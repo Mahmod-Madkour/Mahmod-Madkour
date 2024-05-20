@@ -1,19 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi There, I'm Mahmoud Madkour 👋</h1>
 
-<!--
-**Mahmod-Madkour/Mahmod-Madkour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Works at Poultry Sync as a back-end developer using Python and Django framework.
+- Graduate with a degree in Computer Science from Thebes Academy in 2022.
+- Experience in data analysis and visualization specifically in Python.
+- Has problem-solving and data structure skills.
+- Currently learning more about Web Development.
+
+<br><be>
 
 ###
 
@@ -30,7 +27,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h2 align="left">Languages and Tools:</h2>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 ###
 
